@@ -55,4 +55,7 @@ Current Ripple (Delta I) = 0.1A
 <img width="1920" height="1020" alt="Screenshot 2026-03-17 121950" src="https://github.com/user-attachments/assets/3909aac1-446f-470b-a492-c6af7450ef69" />
 
 ## Output
+<img width="1920" height="1020" alt="Screenshot 2026-03-13 112735" src="https://github.com/user-attachments/assets/4ab5df20-16d4-441b-819c-36f08c963f05" />
+
 ## Result
+Thus,the stepdown chopper is simulated by using MATLAB simuli
